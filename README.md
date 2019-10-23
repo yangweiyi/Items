@@ -1,1 +1,1 @@
-{"name":"wely","sex":""}
+{"name":"wely","sex":"10"}
